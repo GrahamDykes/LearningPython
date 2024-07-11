@@ -1,3 +1,6 @@
+import numpy as np
+
 msg = "Roll a dice"
 print(msg)
-git add
+
+print(np.random.randint(1,9))
