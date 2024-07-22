@@ -39,4 +39,4 @@ sleep(2)
 if outcome == 1:
     print('you shall now suffer a fate worse than death. Not only you, but your entire lineage show now only know pain. They will wake up and eat broken glass and go to sleep with a red hot iron cathider. SUFFER!')
 else:
-    print('your ok')
+    print('you live happily ever after')
