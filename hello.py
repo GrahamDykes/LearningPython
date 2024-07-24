@@ -26,7 +26,7 @@ totalAttack = R1+R2+R3+R4+R5
     #print ('You killed the Goblin')
 #else:
     #print ('You died')
-
+# derp a lerp
 
 print('so you dare to test me?')
 sleep(2)
