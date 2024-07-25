@@ -1,3 +1,9 @@
+# from gpiozero import LED, Button, MotionSensor
+
+# learn how to install gpio to python DUDE!
+
+
+
 import numpy as np
 from time import sleep
 random = np.random.randint
