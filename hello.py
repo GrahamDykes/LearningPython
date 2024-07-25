@@ -2,7 +2,7 @@
 
 # learn how to install gpio to python DUDE!
 # its saying storage is full, but i know damn sure that its not >:(
-
+# good morning
 
 import numpy as np
 from time import sleep
