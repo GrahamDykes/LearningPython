@@ -1,7 +1,7 @@
 # from gpiozero import LED, Button, MotionSensor
 
 # learn how to install gpio to python DUDE!
-
+# its saying storage is full, but i know damn sure that its not >:(
 
 
 import numpy as np
